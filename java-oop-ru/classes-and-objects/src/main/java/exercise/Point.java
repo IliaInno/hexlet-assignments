@@ -1,5 +1,4 @@
 package exercise;
-hexlet assignment submit
 // BEGIN
 public class Point {
     int x;
